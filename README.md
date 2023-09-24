@@ -1,6 +1,6 @@
 # rok
 <html>
-<head> <title> ANANAD`S WEBSITE </title> </head>
+ ANANAD`S WEBSITE 
 <body bgcolor="white" text="black">
 <h1 align="center"> its me anand </h1>
 <font color="red" size="24">
